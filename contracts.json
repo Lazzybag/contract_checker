@@ -9,12 +9,12 @@
       "notes": "Widely trusted, commonly used"
     },
     {
-      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-      "name": "Uniswap",
+      "address": "0x101bCD396DDFb934072a171Bc4F625B85D505C78",
+      "name": "",
       "chain": "ethereum",
-      "category": "dex-token",
-      "description": "Uniswap governance token",
-      "notes": "Major DEX, well-established"
+      "category": "",
+      "description": "",
+      "notes": ""
     },
     {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
